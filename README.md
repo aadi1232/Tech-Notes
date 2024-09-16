@@ -17,5 +17,4 @@
 - **Database**: MongoDB
 - **API Testing**: Postman
 - **Version Control**: Git & GitHub
-
-## Installation and Setup
+ 
